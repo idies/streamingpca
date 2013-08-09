@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dll", "Dll", "{49139839-2416-42D9-8F97-CDBD38444991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jhu.Pca", "dll\Jhu.Pca\Jhu.Pca.csproj", "{2AC397F9-98FC-496F-A7F2-C51DD323BEAF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{0CBAAF55-9F2E-43FA-B97F-A451DC86B355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AC397F9-98FC-496F-A7F2-C51DD323BEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC397F9-98FC-496F-A7F2-C51DD323BEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC397F9-98FC-496F-A7F2-C51DD323BEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC397F9-98FC-496F-A7F2-C51DD323BEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2AC397F9-98FC-496F-A7F2-C51DD323BEAF} = {49139839-2416-42D9-8F97-CDBD38444991}
+	EndGlobalSection
+EndGlobal
